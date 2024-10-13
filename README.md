@@ -7,6 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsh160702&label=Profile%20views&color=0e75b6&style=flat" alt="akarsh160702" /> </p>
 
+- ✌️Hi, Currently working on AWS Services **StreamNest: Discover, Share, Engage**
+
+- 🌱 I’m currently learning **AWS, DevOps Tools, MERN Stack, Docker, Kubernetes  **
+
+- 💬 Ask me about **AWS, C++, HTML, CSS**
+
+- 📫 How to reach me **akarsh1607@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akarshg2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akarshg2002" height="30" width="40" /></a>
