@@ -1,3 +1,5 @@
+![logo](https://github.com/Akarsh160702/Akarsh160702/blob/main/GitHub_Banner.png)
+
 <h1 align="center">Hi 👋, I'm Akarsh Gupta</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
